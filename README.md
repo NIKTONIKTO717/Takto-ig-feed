@@ -1,12 +1,12 @@
-# InstagramFeed [![Build Status](https://travis-ci.com/jsanahuja/InstagramFeed.svg?branch=master)](https://travis-ci.com/jsanahuja/InstagramFeed)
-Instagram Feed without using the instagram API. Neither jQuery!
+# TAKTO Instagram Feed [![Build Status](https://travis-ci.com/jsanahuja/InstagramFeed.svg?branch=master)](https://travis-ci.com/jsanahuja/InstagramFeed)
+Wordpress plugin with Instagram Feed Shortcode. Instagram Feed without using the instagram API.
 
-This is a vanilla JavaScript version of the original [jquery.instagramFeed](https://github.com/jsanahuja/jquery.instagramFeed)
+Thanks to the jsanahuja for his beautiful js solution [jquery.instagramFeed](https://github.com/jsanahuja/jquery.instagramFeed)
 
 ## Documentation
 
-[Full documentation and examples here](https://www.sowecms.com/demos/InstagramFeed)
+Soon...
 
 ## Contributing
 
-Read and follow the [CONTRIBUTING.md](./CONTRIBUTING.md) before sending any pull request.
+Soon...
